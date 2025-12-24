@@ -1,12 +1,12 @@
 from pygame import *
 mixer.init()
-
+dcdahscjhcs
 mixer.music.load('space.ogg')
 
 mixer.music.play()
 fire_sound = mixer.Sound('fire.ogg')
 
-
+dcfsadnfclk
 font.init()
 font2 = font.Font(None, 36)
 
